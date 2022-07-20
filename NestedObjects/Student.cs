@@ -24,7 +24,7 @@ namespace NestedObjects
         /// <summary>
         /// Date of Birth
         /// </summary>
-        public DateTime DateOfBirth { get; set; }
+        public DateOnly DateOfBirth { get; set; }
 
         /// <summary>
         /// Assigned School E-mail Address
